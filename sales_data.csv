@@ -1,0 +1,6 @@
+CustomerID,Name,Product,Quantity,Price,PurchaseDate,Total
+101,Alice,Laptop,1,1000,2023-04-01,1000
+102,Bob,Smartphone,2,500,2023-04-03,1000
+103,Charlie,Tablet,1,300,2023-04-04,300
+104,David,Laptop,3,1000,2023-04-10,3000
+105,Eva,Smartwatch,2,200,2023-04-12,400
